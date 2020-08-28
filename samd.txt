@@ -1,2 +1,3 @@
 Hey this is samad from samad-dotcom account
 adding into the master branch so you can pull from any where 
+directly adding this line to master branch
